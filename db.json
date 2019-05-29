@@ -4,6 +4,31 @@
       "name": "Warszawa",
       "description": "Stolica Polski",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_arms_of_Warsaw.png"
-    }
+    },
+    {
+      "name": "Wrocław",
+      "description": "Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.",
+      "photo": "https://pl.wikipedia.org/wiki/Wrocław#/media/File:Herb_wroclaw.svg"
+    },
+    {
+      "name": "Poznań",
+      "description": "Historyczna stolica Wielkopolski, od 1999 r. siedziba władz województwa wielkopolskiego i powiatu poznańskiego.",
+      "photo": "https://pl.wikipedia.org/wiki/Poznań#/media/File:POL_Poznań_COA.svg"
+    },
+    {
+      "name": "Łódź",
+      "description": "Łódź była prywatnym miastem duchownym (vel kościelnym)–jako Łodzia jest wymieniana wśród miast biskupstwa włocławskiego w powiecie brzezińskim województwa łęczyckiego w końcu XVI wieku",
+      "photo": "https://pl.wikipedia.org/wiki/Łódź#/media/File:POL_Łódź_COA.svg"
+    },
+    {
+      "name": "Radom",
+      "description": "Miasto z najbardziej bezużytecznym lotniskiem na świecie",
+      "photo": "https://pl.wikipedia.org/wiki/Radom#/media/File:POL_Radom_COA.svg"
+    },
+    {
+      "name": "Piaseczno",
+      "description": "Piaseczno było miastem królewskim Korony Królestwa Polskiego, położonym w drugiej połowie XVI wieku w powiecie warszawskim ziemi warszawskiej województwa mazowieckiego.",
+      "photo": "https://pl.wikipedia.org/wiki/Piaseczno#/media/File:POL_Piaseczno_COA.svg"
+    },
   ]
 }
