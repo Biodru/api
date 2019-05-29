@@ -1,0 +1,9 @@
+{
+  "cities":[
+    {
+      "name": "Warszawa",
+      "description": "Stolica Polski",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_arms_of_Warsaw.png"
+    }
+  ]
+}
