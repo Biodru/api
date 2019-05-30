@@ -42,8 +42,78 @@
     {
       "city": "Warszawa",
       "tName": "Bilet do ZOO",
-      "tType": "ulgowy",
+      "tType": "rodzinny",
       "tDescription": "Rodzinny bilet do Warszawskiego ZOO",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Wrocław",
+      "tName": "Hydropolis",
+      "tType": "rodzinny",
+      "tDescription": "Bilet do Hydropolis dla całej rodziny",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Wrocław",
+      "tName": "Afrykarium",
+      "tType": "ulgowy",
+      "tDescription": "Bilet ulgowy do Afrykarium",
+      "tIcon": "fTicket"
+    },
+    {
+      "city": "Poznań",
+      "tName": "Bilet do ZOO",
+      "tType": "ulgowy",
+      "tDescription": "Rodzinny bilet do Poznańskiego ZOO",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Poznań",
+      "tName": "Bilet do ZOO",
+      "tType": "ulgowy",
+      "tDescription": "Rodzinny bilet do Poznańskiego ZOO",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Łódź"
+      "tName": "Hollyłódź",
+      "tType": "nomalny",
+      "tDescription": "Bilet do Muzeum Kinematografii",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Łódź",
+      "tName": "Manufaktura",
+      "tType": "ulgowy",
+      "tDescription": "Bilet na wejście do Manufaktury",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Radom",
+      "tName": "Lotnisko",
+      "tType": "rodzinny",
+      "tDescription": "Odwiedź z rodziną to niesamowite lotnisko",
+      "tIcon": "sTicket"
+    },
+    {
+      "city": "Radom",
+      "tName": "JumpWorld",
+      "tType": "rodzinny",
+      "tDescription": "Skoczna zabawa dla całej rodziny",
+      "tIcon": "fTicket"
+    },
+    {
+      "city": "Piaseczno",
+      "tName": "Chojnowski Park Krajobrazowy",
+      "tType": "rodzinny",
+      "tDescription": "Wspaniałe miejsce na rodzinny wypad",
+      "tIcon": "fTicket"
+    },
+    {
+      "city": "Piaseczno",
+      "tName": "Mazur",
+      "tType": "ulgowy",
+      "tDescription": "Głaz narzutowy Mazur",
       "tIcon": "sTicket"
     }
   ]
