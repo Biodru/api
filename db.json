@@ -8,27 +8,27 @@
     {
       "name": "Wrocław",
       "description": "Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.",
-      "photo": "https://pl.wikipedia.org/wiki/Wrocław#/media/File:Herb_wroclaw.svg"
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/2000px-Herb_wroclaw.svg.png"
     },
     {
       "name": "Poznań",
       "description": "Historyczna stolica Wielkopolski, od 1999 r. siedziba władz województwa wielkopolskiego i powiatu poznańskiego.",
-      "photo": "https://pl.wikipedia.org/wiki/Poznań#/media/File:POL_Poznań_COA.svg"
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/POL_Poznań_COA.svg/2000px-POL_Poznań_COA.svg.png"
     },
     {
       "name": "Łódź",
       "description": "Łódź była prywatnym miastem duchownym (vel kościelnym)–jako Łodzia jest wymieniana wśród miast biskupstwa włocławskiego w powiecie brzezińskim województwa łęczyckiego w końcu XVI wieku",
-      "photo": "https://pl.wikipedia.org/wiki/Łódź#/media/File:POL_Łódź_COA.svg"
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/POL_Łódź_COA.svg/2000px-POL_Łódź_COA.svg.png"
     },
     {
       "name": "Radom",
       "description": "Miasto z najbardziej bezużytecznym lotniskiem na świecie",
-      "photo": "https://pl.wikipedia.org/wiki/Radom#/media/File:POL_Radom_COA.svg"
+      "photo": "http://www.radom.pl/data/other/herb_radomia__podstawowy-kolor__1.png"
     },
     {
       "name": "Piaseczno",
       "description": "Piaseczno było miastem królewskim Korony Królestwa Polskiego, położonym w drugiej połowie XVI wieku w powiecie warszawskim ziemi warszawskiej województwa mazowieckiego.",
-      "photo": "https://pl.wikipedia.org/wiki/Piaseczno#/media/File:POL_Piaseczno_COA.svg"
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/POL_Piaseczno_COA.svg/1200px-POL_Piaseczno_COA.svg.png"
     }
   ],
   "tickets":[
