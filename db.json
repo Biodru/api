@@ -30,5 +30,21 @@
       "description": "Piaseczno było miastem królewskim Korony Królestwa Polskiego, położonym w drugiej połowie XVI wieku w powiecie warszawskim ziemi warszawskiej województwa mazowieckiego.",
       "photo": "https://pl.wikipedia.org/wiki/Piaseczno#/media/File:POL_Piaseczno_COA.svg"
     }
+  ],
+  "tickets":[
+    {
+      "city": "Warszawa",
+      "tName": "Bilet do ZOO",
+      "tType": "normalny",
+      "tDescription": "Bilet do Warszawskiego ZOO",
+      "tIcon": "fTicket"
+    },
+    {
+      "city": "Warszawa",
+      "tName": "Bilet do ZOO",
+      "tType": "ulgowy",
+      "tDescription": "Rodzinny bilet do Warszawskiego ZOO",
+      "tIcon": "sTicket"
+    }
   ]
 }
