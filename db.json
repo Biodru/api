@@ -2,7 +2,7 @@
   "cities":[
     {
       "name": "Warszawa",
-      "description": "Stolica Polski",
+      "description": "Stolica Polski. Największe miasto kraju, położone w jego środkowo-wschodniej części, na Nizinie Środkowomazowieckiej, na Mazowszu, nad Wisłą.",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_arms_of_Warsaw.png"
     },
     {
@@ -13,12 +13,12 @@
     {
       "name": "Poznan",
       "description": "Historyczna stolica Wielkopolski, od 1999 r. siedziba władz województwa wielkopolskiego i powiatu poznańskiego.",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/POL_Poznań_COA.svg/2000px-POL_Poznań_COA.svg.png"
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herb_Poznania.png/464px-Herb_Poznania.png"
     },
     {
       "name": "Lodz",
       "description": "Łódź była prywatnym miastem duchownym (vel kościelnym)–jako Łodzia jest wymieniana wśród miast biskupstwa włocławskiego w powiecie brzezińskim województwa łęczyckiego w końcu XVI wieku",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/POL_Łódź_COA.svg/2000px-POL_Łódź_COA.svg.png"
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lodz_Herb.PNG"
     },
     {
       "name": "Radom",
@@ -37,28 +37,28 @@
       "tName": "Bilet do ZOO",
       "tType": "normalny",
       "tDescription": "Bilet do Warszawskiego ZOO",
-      "tIcon": "fTicket"
+      "tIcon": "sTicket"
     },
     {
       "city": "Warszawa",
       "tName": "Bilet do ZOO",
       "tType": "rodzinny",
       "tDescription": "Rodzinny bilet do Warszawskiego ZOO",
-      "tIcon": "sTicket"
+      "tIcon": "fTicket"
     },
     {
       "city": "Wroclaw",
       "tName": "Hydropolis",
       "tType": "rodzinny",
       "tDescription": "Bilet do Hydropolis dla całej rodziny",
-      "tIcon": "sTicket"
+      "tIcon": "fTicket"
     },
     {
       "city": "Wroclaw",
       "tName": "Afrykarium",
       "tType": "ulgowy",
       "tDescription": "Bilet ulgowy do Afrykarium",
-      "tIcon": "fTicket"
+      "tIcon": "sTicket"
     },
     {
       "city": "Poznan",
@@ -93,7 +93,7 @@
       "tName": "Lotnisko",
       "tType": "rodzinny",
       "tDescription": "Odwiedź z rodziną to niesamowite lotnisko",
-      "tIcon": "sTicket"
+      "tIcon": "fTicket"
     },
     {
       "city": "Radom",
