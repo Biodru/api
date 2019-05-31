@@ -6,17 +6,17 @@
       "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_arms_of_Warsaw.png"
     },
     {
-      "name": "Wrocław",
+      "name": "Wroclaw",
       "description": "Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/2000px-Herb_wroclaw.svg.png"
     },
     {
-      "name": "Poznań",
+      "name": "Poznan",
       "description": "Historyczna stolica Wielkopolski, od 1999 r. siedziba władz województwa wielkopolskiego i powiatu poznańskiego.",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/POL_Poznań_COA.svg/2000px-POL_Poznań_COA.svg.png"
     },
     {
-      "name": "Łódź",
+      "name": "Lodz",
       "description": "Łódź była prywatnym miastem duchownym (vel kościelnym)–jako Łodzia jest wymieniana wśród miast biskupstwa włocławskiego w powiecie brzezińskim województwa łęczyckiego w końcu XVI wieku",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/POL_Łódź_COA.svg/2000px-POL_Łódź_COA.svg.png"
     },
@@ -47,42 +47,42 @@
       "tIcon": "sTicket"
     },
     {
-      "city": "Wrocław",
+      "city": "Wroclaw",
       "tName": "Hydropolis",
       "tType": "rodzinny",
       "tDescription": "Bilet do Hydropolis dla całej rodziny",
       "tIcon": "sTicket"
     },
     {
-      "city": "Wrocław",
+      "city": "Wroclaw",
       "tName": "Afrykarium",
       "tType": "ulgowy",
       "tDescription": "Bilet ulgowy do Afrykarium",
       "tIcon": "fTicket"
     },
     {
-      "city": "Poznań",
+      "city": "Poznan",
       "tName": "Bilet do ZOO",
       "tType": "ulgowy",
       "tDescription": "Rodzinny bilet do Poznańskiego ZOO",
       "tIcon": "sTicket"
     },
     {
-      "city": "Poznań",
+      "city": "Poznan",
       "tName": "Bilet do ZOO",
       "tType": "ulgowy",
       "tDescription": "Rodzinny bilet do Poznańskiego ZOO",
       "tIcon": "sTicket"
     },
     {
-      "city": "Łódź",
+      "city": "Lodz",
       "tName": "Hollyłódź",
       "tType": "nomalny",
       "tDescription": "Bilet do Muzeum Kinematografii",
       "tIcon": "sTicket"
     },
     {
-      "city": "Łódź",
+      "city": "Lodz",
       "tName": "Manufaktura",
       "tType": "ulgowy",
       "tDescription": "Bilet na wejście do Manufaktury",
